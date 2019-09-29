@@ -107,5 +107,3 @@ with open("./synclist.json","r") as f:
 
 # print(info)
 sync_two_repo(info)
-
-# print(os.path.isfile("../../ROBO_CLUB/ME193_Feed_back_control_of_legged_robotics/lecture1 Lagrangian Dynamics.md"))
